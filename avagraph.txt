@@ -1,1 +1,1 @@
-avagraph-latency-87e7fca1c8edac97
+avagraph-latency-3ae4da10b9a8e2d4
